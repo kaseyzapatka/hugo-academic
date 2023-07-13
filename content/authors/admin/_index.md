@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Kasey Zapatka Wu is a postdoctoral scholar in the sociology department at the UC Berkeley and the Urban Displacement Project at the Institute of Governmental Studies. I use quantitative methods to study urban and spatial inequality, housing affordability, neighborhood change, gentrification, suburbanization, segregation, and education inequality. 
+Kasey Zapatka is a postdoctoral scholar in the sociology department at the UC Berkeley and the Urban Displacement Project at the Institute of Governmental Studies. I use quantitative methods to study urban and spatial inequality, housing affordability, neighborhood change, gentrification, suburbanization, segregation, and education inequality. 
 {style="text-align: justify;"}
