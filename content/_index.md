@@ -46,15 +46,11 @@ sections:
           location: New York City
           date_start: '2022-09-01'
           date_end: '2023-05-31'
-          description: |2-
-              Responsibilities include:
+          description: 
 
-              * Oversee project with other HPD research staff and partners primarily relying on US Census and NYC Housing and Vacancy Survey (NYCHVS) data
-              * Create Stata documentation of previous analyses to promote replication
-              * Develop internal (i.e., Neighborhood Typologies) and public-facing (i.e., 421-a report, NYCHVS) reports, data products, and research documentation
-              * Present and field questions on research findings to internal and external audiences
-              * Clean, process, and deliver data products to the US Census for developing the 2023 NYCHVS sample frame
-              * Update NYCHVS survey methodology documentation and develop post-stratification weights
+              * Testing 
+              * Just to see
+              * If this works 
        - title: Research Associate
           company: Professor Van Tran
           company_url: ''
@@ -62,12 +58,11 @@ sections:
           location: New York City
           date_start: '2021-09-01'
           date_end: '2022-09-01'
-          description: |2-
-              Responsibilities include:
+          description: 
 
-              * Built US Census dataset to study ethno-racial neighborhood integration in metro New York
-              * Fit multinomial logistic regression models and interpreted marginal effects plots in R for analyses
-              * Wrote methodological section, created descriptive plots in R, and managed project on GitHub
+              * Testing 
+              * Just to see
+              * If this works 
     design:
       columns: '2'
   - block: accomplishments
