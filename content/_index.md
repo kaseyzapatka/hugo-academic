@@ -46,11 +46,7 @@ sections:
           location: New York City
           date_start: '2022-09-01'
           date_end: '2023-05-31'
-          description: 
-
-              * Testing 
-              * Just to see
-              * If this works 
+          description: Taught electronic engineering and researched semiconductor physics.
        - title: Research Associate
           company: Professor Van Tran
           company_url: ''
@@ -58,11 +54,7 @@ sections:
           location: New York City
           date_start: '2021-09-01'
           date_end: '2022-09-01'
-          description: 
-
-              * Testing 
-              * Just to see
-              * If this works 
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
