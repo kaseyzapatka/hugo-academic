@@ -46,15 +46,15 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 100%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Python
+          description: 70%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Stata
+          description: 100%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -69,33 +69,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: City Research Scientist
+          company: NYC Department of Housing Preservation and Development
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: New York City
+          date_start: '2022-09-01'
+          date_end: '2023-05-31'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Design, manage, and execute research project in consultation with other HPD research staff and partners primarily relying on US Census and NYC Housing and Vacancy Survey (NYCHVS) data
+              * Create Stata documentation of previous analyses to promote replication
+              * Develop internal (i.e., Neighborhood Typologies) and public-facing (i.e., 421-a report, NYCHVS) reports, data products, and research documentation
+              * Present and field questions on research findings to internal and external audiences
+              * Clean, process, and deliver data products to the US Census for developing the 2023 NYCHVS sample frame
+              * Update NYCHVS survey methodology documentation and develop post-stratification weights
+              
+        - title: Research Associate
+          company: Professor Van Tran
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: New York City
+          date_start: '2021-09-01'
+          date_end: '2022-09-01'
+          description: |2-
+              Responsibilities include:
+
+              * Built US Census dataset to study ethno-racial neighborhood integration in metro New York
+              * Fit multinomial logistic regression models and interpreted marginal effects plots in R for analyses
+              * Wrote methodological section, created descriptive plots in R, and managed project on GitHub
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Fellowships'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -105,13 +114,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.horowitz-foundation.org/2020
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Horowitz
+          organization_url: https://www.horowitz-foundation.org
+          title: Horowitz Foundation for Social Policy Fellow
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -185,18 +194,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Featured Publication
       filters:
         folders:
           - publication
@@ -228,56 +229,5 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+
 ---
