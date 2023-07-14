@@ -22,7 +22,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include urban sociology, gentrification, and spatial econometrics.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -75,11 +75,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kaseyzapatka@berkeley.edu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Kasey Zapatka is a postdoctoral scholar in the sociology department at the UC Berkeley and the Urban Displacement Project at the Institute of Governmental Studies. I use quantitative methods to study urban and spatial inequality, housing affordability, neighborhood change, gentrification, suburbanization, segregation, and education inequality. 
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
