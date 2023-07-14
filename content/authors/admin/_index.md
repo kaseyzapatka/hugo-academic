@@ -19,7 +19,7 @@ role: Postdoc
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, Berkeley
-    url: https://www.stanford.edu/
+    url: https://sociology.berkeley.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include urban sociology, gentrification, and spatial econometrics.
@@ -75,7 +75,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'kaseyzapatka@berkeley.edu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
