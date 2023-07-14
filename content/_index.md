@@ -16,15 +16,15 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 100%
+          description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Python
-          description: 80%
-          icon: python  
-          icon_pack: fad
-        - name: Stata
+        - name: Statistics
           description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -39,33 +39,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: City Research Scientist
-          company: NYC Department of Housing Preservation and Development
+        - title: CEO
+          company: GenCoin
           company_url: ''
           company_logo: org-gc
-          location: New York City
-          date_start: '2022-09-01'
-          date_end: '2023-05-31'
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Research Associate
-          company: Professor Van Tran
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
-          location: New York City
-          date_start: '2021-09-01'
-          date_end: '2022-09-01'
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Fellowships'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -75,13 +75,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.horowitz-foundation.org/2020
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021'
+          date_start: '2021-01-25'
           description: ''
-          organization: Horowitz
-          organization_url: https://www.horowitz-foundation.org
-          title: Horowitz Foundation for Social Policy Fellow
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
