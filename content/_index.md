@@ -22,7 +22,7 @@ sections:
         - name: Python
           description: Proficient
           icon: chart-line
-          icon_pack: fab
+          icon_pack: fas
         - name: Stata
           description: Advanced
           icon: camera-retro
