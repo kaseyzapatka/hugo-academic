@@ -1,12 +1,3 @@
-cms_exclude: true
-
-# To publish author profile pages, remove all of the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
 ---
 # Display name
 title: Kasey Zapatka
@@ -28,7 +19,7 @@ role: Postdoc
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of California, Berkeley
-    url: https://sociology.berkeley.edu
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include urban sociology, gentrification, and spatial econometrics.
@@ -84,7 +75,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'kaseyzapatka@berkeley.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
