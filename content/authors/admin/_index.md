@@ -22,7 +22,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include urban sociology, gentrification, and spatial econometrics.
 
 # Interests to show in About widget
 interests:
@@ -75,7 +75,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'kaseyzapatka@berkeley.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
