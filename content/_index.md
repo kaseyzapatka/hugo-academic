@@ -75,7 +75,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-         - certificate_url: https://www.horowitz-foundation.org/2020
+        - certificate_url: https://www.horowitz-foundation.org/2020
           date_end: ''
           date_start: '2021'
           description: ''
