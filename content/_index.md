@@ -65,7 +65,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Fellowships'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -75,13 +75,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+         - certificate_url: https://www.horowitz-foundation.org/2020
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Horowitz
+          organization_url: https://www.horowitz-foundation.org
+          title: Horowitz Foundation for Social Policy Fellow
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
