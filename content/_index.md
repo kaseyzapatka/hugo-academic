@@ -49,12 +49,12 @@ sections:
           description: |2-
               Responsibilities include:
 
-              *Design, manage, and execute research project with other HPD research  
+              *Design, manage, and execute research project with other HPD research
               *Create Stata documentation of previous analyses to promote replication
               *Develop internal and public-facing reports, data products, and research documentation
               *Present and field questions on research findings to internal and external audiences
-              *Clean, process, and  data products to the US Census 
-              *Update NYCHVS survey methodology documentation 
+              *Clean, process, and  data products to the US Census
+              *Update NYCHVS survey methodology documentation
               *Develop post-stratification weights
               
         - title: Research Associate
