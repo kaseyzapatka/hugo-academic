@@ -64,7 +64,12 @@ sections:
           location: New York City
           date_start: '2021-09-01'
           date_end: '2022-09-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+          
+              * Construct US Census dataset to study ethno-racial neighborhood integration in metro New York
+              * Fit multinomial logistic regression models and interpreted marginal effects plots in R for analyses
+              * Write methodological section, create descriptive plots in R, and manage project development on GitHub
     design:
       columns: '2'
   - block: accomplishments
