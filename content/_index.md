@@ -39,11 +39,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: UC Berkeley, Institute of Governmental Studies
+          company_url: ''
+          company_logo: org-gc
+          location: Berkeley, CA
+          date_start: '2023-07-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+              
+              * Clean and process big data in R and Python
+              * Grant writing
+              * Conduct analyses using causal inference and machine learning techniques
+              * Develop, write, and publish peer-reviewed academic papers
+              
         - title: City Research Scientist
           company:  NYC Department of Housing Preservation and Development
           company_url: ''
           company_logo: org-gc
-          location: New York City
+          location: New York City, NY
           date_start: '2022-09-01'
           date_end: '2023-05-31'
           description: |2-
@@ -61,7 +76,7 @@ sections:
           company: Professor Van Tran
           company_url: ''
           company_logo: org-x
-          location: New York City
+          location: New York City, NY
           date_start: '2021-09-01'
           date_end: '2022-09-01'
           description: |2-
