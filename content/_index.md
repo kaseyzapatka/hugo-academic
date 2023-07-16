@@ -56,6 +56,7 @@ sections:
               *Clean, process, and  data products to the US Census 
               *Update NYCHVS survey methodology documentation 
               *Develop post-stratification weights
+              
         - title: Research Associate
           company: Professor Van Tran
           company_url: ''
