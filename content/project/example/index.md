@@ -1,12 +1,12 @@
 ---
-title: Superdiversity Project in New York City
-summary: Together with professors at Max Planck Institute and CUNY, The Graduate Center, I built a website to to visualize changing diversity in metro New York.
+title: Housing Literacy
+summary: Housing Literacy is a website designed to explain all the documents a tenant in a rent stabilized apartment would encounter. 
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://www.superdiv-newyork.mmg.mpg.de
+external_link: https://housingliteracynyc.org
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
