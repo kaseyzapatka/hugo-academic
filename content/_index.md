@@ -42,7 +42,7 @@ sections:
         - title: Postdoctoral Researcher
           company: UC Berkeley, Institute of Governmental Studies
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-berkeley
           location: Berkeley, CA
           date_start: '2023-07-01'
           date_end: ''
@@ -57,7 +57,7 @@ sections:
         - title: City Research Scientist
           company:  NYC Department of Housing Preservation and Development
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-hpd
           location: New York City, NY
           date_start: '2022-09-01'
           date_end: '2023-05-31'
@@ -75,7 +75,7 @@ sections:
         - title: Research Associate
           company: Professor Van Tran
           company_url: ''
-          company_logo: org2-gc
+          company_logo: org-gc
           location: New York City, NY
           date_start: '2021-09-01'
           date_end: '2022-09-01'
