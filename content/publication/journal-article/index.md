@@ -1,13 +1,10 @@
 ---
-title: "An example journal article"
+title: "Does demand lead supply? Gentrifiers and developers in the sequence of gentrification, New York City 2009–2016"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Brenden Beck
+date: "2020-05-20T00:00:00Z"
+doi: "https://doi.org/10.1177/0042098020940596"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Urban Studies*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Consumption-side theorists of gentrification examine the flow of middle-class White people into previously working-class neighbourhoods and argue that their demand for housing stimulates gentrification. In contrast, production-side theorists emphasise the movement of capital into previously disinvested neighbourhoods and contend that profit-seeking development increases property values and sparks gentrification. Hybrid theorists argue that consumption and production occur simultaneously. This article operationalises arguments made by each approach, and asks: Do gentrifiers precede rising home values or do rising home values precede gentrifiers? To answer this question of sequence, we build a dataset of census and property tax assessment data for 2192 New York City census tracts between 2009 and 2016. Using cross-lagged regression models with tract and year fixed effects, we find neighbourhoods that experienced an increase in White, middle-class residents had related housing price spikes in each of the subsequent two years. A 1% increase in gentrifiers was associated with a subsequent 2.7% increase in property values. However, housing market growth did not predict future increases in gentrifiers. This suggests that consumption leads production during neighbourhood gentrification, and that developers are reactive, not proactive, in their investment decisions. Focusing on the sequence of gentrification’s subsidiary elements enables city officials, non-profits and social movements to better anticipate gentrification and develop more targeted policies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using cross-lagged regression models with tract and year fixed effects, we show that demand-side forces precede supply-side forces in the sequence of gentrification in New York City between 2009-2016.
 
 tags:
 - Source Themes
@@ -34,8 +31,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
