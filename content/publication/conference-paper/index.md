@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Affordable Regulation: New York City Rent Stabilization as Housing Affordability Policy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,7 +28,7 @@ publication_short: In *C&C*
 abstract: The growing housing affordability crisis is at the center of conversations about U.S. inequality. This paper reconsiders the role of rent stabilization as one important affordability tool. We investigate who is most likely to benefit from rent stabilization, how much non-stabilized renters would save if their units were stabilized, and the extent to which stabilization would reduce rent burden among households. Using New York City Housing Vacancy Survey data and employing logistic and hedonic regression techniques, we show that Hispanic and foreign-born householders are more likely to live in rent-stabilized units and find evidence of both rent savings and rent burden reduction when comparing stabilized tenants with their non-stabilized counterparts. We argue that expanded rent stabilization could be paired with policies that stimulate new construction to simultaneously curb rent inflation, protect current populations from displacement, and increase housing supply.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Using logistic and hedonic regression techniques, we show that Hispanic and foreign-born householders are more likely to live in rent-stabilized units and find evidence of both rent savings and rent burden reduction when comparing stabilized tenants with their non-stabilized counterparts.
 
 tags: []
 
