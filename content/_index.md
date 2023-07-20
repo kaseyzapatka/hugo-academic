@@ -75,7 +75,7 @@ sections:
         - title: Research Associate
           company: Professor Van Tran
           company_url: ''
-          company_logo: org-x
+          company_logo: org2-gc
           location: New York City, NY
           date_start: '2021-09-01'
           date_end: '2022-09-01'
