@@ -23,7 +23,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Urban Studies*
-publication_short:
+publication_short: In *Urban Studies*
 
 abstract: Consumption-side theorists of gentrification examine the flow of middle-class White people into previously working-class neighbourhoods and argue that their demand for housing stimulates gentrification. In contrast, production-side theorists emphasise the movement of capital into previously disinvested neighbourhoods and contend that profit-seeking development increases property values and sparks gentrification. Hybrid theorists argue that consumption and production occur simultaneously. This article operationalises arguments made by each approach, and asks: Do gentrifiers precede rising home values or do rising home values precede gentrifiers? To answer this question of sequence, we build a dataset of census and property tax assessment data for 2192 New York City census tracts between 2009 and 2016. Using cross-lagged regression models with tract and year fixed effects, we find neighbourhoods that experienced an increase in White, middle-class residents had related housing price spikes in each of the subsequent two years. A 1% increase in gentrifiers was associated with a subsequent 2.7% increase in property values. However, housing market growth did not predict future increases in gentrifiers. This suggests that consumption leads production during neighbourhood gentrification, and that developers are reactive, not proactive, in their investment decisions. Focusing on the sequence of gentrification’s subsidiary elements enables city officials, non-profits and social movements to better anticipate gentrification and develop more targeted policies.
 
