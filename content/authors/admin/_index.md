@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kaseyzapatka@berkeley.edu'
+    link: 'mailto:kaseyzapatka@berkeley.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/kaseyzap
