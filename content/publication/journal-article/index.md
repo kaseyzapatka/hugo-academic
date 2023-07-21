@@ -1,15 +1,15 @@
 ---
-title: 'Affordable Regulation: New York City Rent Stabilization as Housing Affordability Policy'
+title: 'Does demand lead supply? Gentrifiers and developers in the sequence of gentrification, New York City 2009–2016'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Juliana de Castro Galvao
+  - Brenden Beck
 
 
-date: '2022-10-07T00:00:00Z'
+date: '2020-08-20T00:00:00Z'
 doi: 'https://doi.org/10.1177/15356841221123762'
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +22,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *City & Community *
-publication_short: In *C&C*
+publication: In *Urban Studies*
+publication_short: In *US*
 
 abstract: The growing housing affordability crisis is at the center of conversations about U.S. inequality. This paper reconsiders the role of rent stabilization as one important affordability tool. We investigate who is most likely to benefit from rent stabilization, how much non-stabilized renters would save if their units were stabilized, and the extent to which stabilization would reduce rent burden among households. Using New York City Housing Vacancy Survey data and employing logistic and hedonic regression techniques, we show that Hispanic and foreign-born householders are more likely to live in rent-stabilized units and find evidence of both rent savings and rent burden reduction when comparing stabilized tenants with their non-stabilized counterparts. We argue that expanded rent stabilization could be paired with policies that stimulate new construction to simultaneously curb rent inflation, protect current populations from displacement, and increase housing supply.
 
