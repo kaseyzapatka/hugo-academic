@@ -1,16 +1,16 @@
 ---
-title: 'Does demand lead supply? Gentrifiers and developers in the sequence of gentrification, New York City 2009–2016'
+title: 'Affordable Regulation: New York City Rent Stabilization as Housing Affordability Policy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Brenden Beck
+  - Juliana de Castro Galvao
 
 
-date: '2020-05-20T00:00:00Z'
-doi: 'https://doi.org/10.1177/0042098020940596'
+date: '2022-10-07T00:00:00Z'
+doi: 'https://doi.org/10.1177/15356841221123762'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -22,13 +22,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Urban Studies*
-publication_short: In *Urban Studies*
+publication: In *City & Community *
+publication_short: In *C&C*
 
-abstract: Consumption-side theorists of gentrification examine the flow of middle-class White people into previously working-class neighbourhoods and argue that their demand for housing stimulates gentrification. In contrast, production-side theorists emphasise the movement of capital into previously disinvested neighbourhoods and contend that profit-seeking development increases property values and sparks gentrification. Hybrid theorists argue that consumption and production occur simultaneously. This article operationalises arguments made by each approach, and asks: Do gentrifiers precede rising home values or do rising home values precede gentrifiers? To answer this question of sequence, we build a dataset of census and property tax assessment data for 2192 New York City census tracts between 2009 and 2016. Using cross-lagged regression models with tract and year fixed effects, we find neighbourhoods that experienced an increase in White, middle-class residents had related housing price spikes in each of the subsequent two years. A 1% increase in gentrifiers was associated with a subsequent 2.7% increase in property values. However, housing market growth did not predict future increases in gentrifiers. This suggests that consumption leads production during neighbourhood gentrification, and that developers are reactive, not proactive, in their investment decisions. Focusing on the sequence of gentrification’s subsidiary elements enables city officials, non-profits and social movements to better anticipate gentrification and develop more targeted policies.
+abstract: The growing housing affordability crisis is at the center of conversations about U.S. inequality. This paper reconsiders the role of rent stabilization as one important affordability tool. We investigate who is most likely to benefit from rent stabilization, how much non-stabilized renters would save if their units were stabilized, and the extent to which stabilization would reduce rent burden among households. Using New York City Housing Vacancy Survey data and employing logistic and hedonic regression techniques, we show that Hispanic and foreign-born householders are more likely to live in rent-stabilized units and find evidence of both rent savings and rent burden reduction when comparing stabilized tenants with their non-stabilized counterparts. We argue that expanded rent stabilization could be paired with policies that stimulate new construction to simultaneously curb rent inflation, protect current populations from displacement, and increase housing supply.
 
 # Summary. An optional shortened abstract.
-summary: Using cross-lagged regression models with tract and year fixed effects, we show that demand-side forces precede supply-side forces in the sequence of gentrification in New York City between 2009-2016.
+summary: Using logistic and hedonic regression techniques, we show that Hispanic and foreign-born householders are more likely to live in rent-stabilized units and find evidence of both rent savings and rent burden reduction when comparing stabilized tenants with their non-stabilized counterparts.
 
 tags: []
 
