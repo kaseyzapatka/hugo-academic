@@ -10,7 +10,7 @@ authors:
 
 
 date: '2020-08-20T00:00:00Z'
-doi: 'https://doi.org/10.1177/15356841221123762'
+doi: 'https://doi.org/10.1177/0042098020940596'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
