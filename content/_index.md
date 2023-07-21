@@ -16,16 +16,16 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 100%
           icon: r-project
           icon_pack: fab
         - name: Python
-          description: 100%
+          description: 80%
           icon: python
           icon_pack: fab
-        - name: Stata
-          description: 10%
-          icon: camera-retro
+        - name: Statistics
+          description: 100%
+          icon: chart-line
           icon_pack: fas
   - block: experience
     content:
