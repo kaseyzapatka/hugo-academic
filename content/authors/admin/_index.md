@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoc
+role: PhD, Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'kaseyzapatka@berkeley.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/kaseyzap
