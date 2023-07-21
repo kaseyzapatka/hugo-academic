@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD, Postdoctoral Scholar
+role: PhD, Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Kasey Zapatka is a postdoctoral scholar in the department of sociology at University of California, Berkeley and the Institute of Governmental Studies. His research focuses on urban inquality through the lens of housing and neighborhoods. He primarily uses quantitative methods, particularly casual inference, spatial econometrics, and machine learning.
+Kasey Zapatka is a postdoctoral researcher in the department of sociology at University of California, Berkeley and the Institute of Governmental Studies. His research focuses on urban inquality through the lens of housing and neighborhoods. He primarily uses quantitative methods, particularly casual inference, spatial econometrics, and machine learning.
 {style="text-align: justify;"}
