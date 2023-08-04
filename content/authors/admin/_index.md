@@ -85,4 +85,4 @@ Kasey Zapatka is a postdoctoral scholar at the Urban Displacement Project and in
 
 Kasey has also been actively involved in various public-facing web-based projects, including one to help New York City tenants better understand rent regulation laws and another to visualize the changing diversity in metropolitan New York. He primarily uses quantitative methods in his research, particularly causal inference, spatial econometrics, and machine learning. Kasey holds a PhD in Sociology from The City University of New York, The Graduate Center.
 
-{style="text-align: justify;"}
+{style="text-align: justify; text-justify: inter-word;"}
