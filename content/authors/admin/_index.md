@@ -81,5 +81,8 @@ email: ''
 highlight_name: true
 ---
 
-Kasey Zapatka is a postdoctoral researcher in the department of sociology at University of California, Berkeley and the Institute of Governmental Studies. His research focuses on urban inquality through the lens of housing and neighborhoods. He primarily uses quantitative methods, particularly casual inference, spatial econometrics, and machine learning.
+Kasey Zapatka is a postdoctoral scholar at the Urban Displacement Project and in the Department of Sociology at the University of California, Berkeley. His research seeks to better understand the dynamics of urban inequality through the lens of housing, neighborhoods, and household socioeconomic stratification. He has published studies on the sequence of gentrification, the benefits of New York City’s rent regulation for stabilized tenants, and neighborhood diversification in immigrant cities.
+
+Kasey has also been actively involved in various public-facing web-based projects, including one to help New York City tenants better understand rent regulation laws and another to visualize the changing diversity in metropolitan New York. He primarily uses quantitative methods in his research, particularly causal inference, spatial econometrics, and machine learning. Kasey holds a PhD in Sociology from The City University of New York, The Graduate Center.
+
 {style="text-align: justify;"}
